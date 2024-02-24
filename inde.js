@@ -1,0 +1,8 @@
+alert("download")
+alert("0%")
+alert("25%")
+alert("50%")
+alert("75%")
+alert("100%")
+console.log("Hallo")
+console.log("passwort")
